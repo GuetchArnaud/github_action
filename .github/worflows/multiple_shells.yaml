@@ -1,6 +1,6 @@
 name: Multiple shells commands
 on:
-  push:
+  push: 
     branches:
       - "master"
   pull_request:
